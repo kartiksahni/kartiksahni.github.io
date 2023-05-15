@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Kartik Sahni",
+  "home_page_url": "https://kartiksahni.github.io/",
+  "feed_url": "https://kartiksahni.github.io/feed.json",
+  "description": "I'm a data enthusiast working at EXL Services. I love diving deep into data and uncovering insights that can make a real impact for the organizations I work for. With experience in diverse data analytics projects such as mortgage & card analytics, credit risk, and stress testing, I've had the chance to work with big names like Natwest and HSBC. When I'm not crunching numbers  you can find me on the court playing tennis or squash, hiking in the great outdoors, or running to stay active. And when I want to unwind, I love curling up with a good book",
+  "favicon": "https://kartiksahni.github.io//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Kartik Sahni",
+    "url": "https://kartiksahni.github.io/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
